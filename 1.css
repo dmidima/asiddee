@@ -1,56 +1,61 @@
 body{
-    width:90%;
-    margin:0 auto;
-    
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
 }
 
 header {
-    width:100%;
-    border: 1px solid blue;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
 }
 
 nav {
-    width:100%;
-    border: 1px solid blue;
-   
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
 }
 
 main {
     width: 80%;
-    display: inline-block;
-    border: 1px solid blue;
-
+    float:left;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
 }
 
 aside {
-    width:18%;
-    
-    display: inline-block;
-    margin-right: 20px;
+    width: 17%;
     float: right;
-    border: 1px solid blue;
-
+    margin-top: 10px;
+    background-color: lightgray;
 }
 
 footer {
-    width:100%;
     float: left;
-    border: 1px solid blue;
-
+    width:100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: lightgray;
 }
 
 section {
+    padding: 5px;
+    margin: 5px;
     width: 80%;
     margin: 0 auto;
-    border: 1px solid blue;
-
+    background-color: orangered;
 }
 
 article {
+    padding: 5px;
     width: 80%;
     margin: 10px auto;
-    border: 1px solid blue;
-    background-color: aqua;
+    background-color: white;
 }
 
 
