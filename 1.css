@@ -1,0 +1,56 @@
+body{
+    width:90%;
+    margin:0 auto;
+    
+}
+
+header {
+    width:100%;
+    border: 1px solid blue;
+}
+
+nav {
+    width:100%;
+    border: 1px solid blue;
+   
+}
+
+main {
+    width: 80%;
+    display: inline-block;
+    border: 1px solid blue;
+
+}
+
+aside {
+    width:18%;
+    
+    display: inline-block;
+    margin-right: 20px;
+    float: right;
+    border: 1px solid blue;
+
+}
+
+footer {
+    width:100%;
+    float: left;
+    border: 1px solid blue;
+
+}
+
+section {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid blue;
+
+}
+
+article {
+    width: 80%;
+    margin: 10px auto;
+    border: 1px solid blue;
+    background-color: aqua;
+}
+
+
